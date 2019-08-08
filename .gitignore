@@ -11,3 +11,4 @@ libcurl-*.a
 xcuserdata
 Makefile
 /toolchain
+prebuilt-with-ssl
